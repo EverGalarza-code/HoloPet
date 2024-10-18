@@ -1,12 +1,12 @@
-/*import "./styles.css";
-import { computePosition, shift, flip, offset } from "@floating-ui/dom"; */
+import "./styles.css";
+import { computePosition, shift, flip, offset } from "@floating-ui/dom"; 
 
 //select floating id from html
-/*
+
 const floating = document.getElementById("floating");
-*/
+
 //listens for mouse movement
-/*
+
 document.addEventListener("mousemove", ({ clientX, clientY }) => {
   const virtualEl = {
   // gets the mouse dimensions and position
@@ -34,4 +34,3 @@ document.addEventListener("mousemove", ({ clientX, clientY }) => {
     });
   });
 });
-*/
